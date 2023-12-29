@@ -8,6 +8,7 @@ public class Demo
 		String a="Hello Java";
 		int id=10;
 		float per=89.66f;
+		String s = "Shya";
 		
 		System.out.println(per);
 		System.out.println(id);
